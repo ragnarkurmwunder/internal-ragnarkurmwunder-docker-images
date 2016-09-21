@@ -100,6 +100,8 @@ For example:
 $ tail -f logs/slow.log
 ```
 
+### Workflow stuff
+
 #### Makefile
 
 This is GNU make Makefile, which contains all the rules for smooth workflow.
